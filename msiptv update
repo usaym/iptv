@@ -1,49 +1,73 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport Max HD1
-http://linux-app.tv:6204/live/Reben/Reben/20830.m3u8
-#EXTINF:-1,Bein Sport Max HD2
-http://linux-app.tv:6204/live/Reben/Reben/20829.m3u8
-#EXTINF:-1,Bein Sport HD1 720P
-http://linux-app.tv:6204/live/Reben/Reben/9022.m3u8
-#EXTINF:-1,Bein Sport HD2 720P
-http://linux-app.tv:6204/live/Reben/Reben/9021.m3u8
-#EXTINF:-1,Bein Sport HD3 720P
-http://linux-app.tv:6204/live/Reben/Reben/9020.m3u8
-#EXTINF:-1,Bein Sport HD4 720P
-http://linux-app.tv:6204/live/Reben/Reben/9019.m3u8
-#EXTINF:-1,Bein Sport HD5 720P
-http://linux-app.tv:6204/live/Reben/Reben/9018.m3u8
-#EXTINF:-1,Bein Sport HD6 720P
-http://linux-app.tv:6204/live/Reben/Reben/9017.m3u8
-#EXTINF:-1,Bein Sport HD7 720P
-http://linux-app.tv:6204/live/Reben/Reben/9016.m3u8
-#EXTINF:-1,Bein Sport HD8 720P
-http://linux-app.tv:6204/live/Reben/Reben/9015.m3u8
-#EXTINF:-1,Bein Sport HD9 720P
-http://linux-app.tv:6204/live/Reben/Reben/9014.m3u8
-#EXTINF:-1,Bein Sport HD10 720P
-http://linux-app.tv:6204/live/Reben/Reben/9013.m3u8
-#EXTINF:-1,Bein Sport HD11 EN 720P
-http://linux-app.tv:6204/live/Reben/Reben/9012.m3u8
-#EXTINF:-1,bein Sport SD1
-http://linux-app.tv:6204/live/Reben/Reben/1913.m3u8
-#EXTINF:-1,Bein Sport SD2
-http://linux-app.tv:6204/live/Reben/Reben/1914.m3u8
-#EXTINF:-1,Bein Sport SD3
-http://linux-app.tv:6204/live/Reben/Reben/1915.m3u8
-#EXTINF:-1,Bein Sport SD4
-http://linux-app.tv:6204/live/Reben/Reben/1916.m3u8
-#EXTINF:-1,Bein Sport SD5
-http://linux-app.tv:6204/live/Reben/Reben/1917.m3u8
-#EXTINF:-1,Bein Sport SD6
-http://linux-app.tv:6204/live/Reben/Reben/1918.m3u8
-#EXTINF:-1,Bein Sport SD7
-http://linux-app.tv:6204/live/Reben/Reben/1919.m3u8
-#EXTINF:-1,Bein Sport SD8
-http://linux-app.tv:6204/live/Reben/Reben/1920.m3u8
-#EXTINF:-1,Bein Sport SD9
-http://linux-app.tv:6204/live/Reben/Reben/1921.m3u8
-#EXTINF:-1,Bein Sport SD10
-http://linux-app.tv:6204/live/Reben/Reben/1922.m3u8
-#EXTINF:-1,Bein Sport SD11
-http://linux-app.tv:6204/live/Reben/Reben/1923.m3u8
+#EXTINF:-1,AR: BEIN SPORTS 1 HD
+http://iptv.clines.cc:80/1234/1234/18357
+#EXTINF:-1,AR: BEIN SPORTS 1
+http://iptv.clines.cc:80/1234/1234/436
+#EXTINF:-1,AR: BEIN SPORTS 2 HD
+http://iptv.clines.cc:80/1234/1234/18356
+#EXTINF:-1,AR: BEIN SPORTS 2
+http://iptv.clines.cc:80/1234/1234/437
+#EXTINF:-1,AR: BEIN SPORTS 3 HD
+http://iptv.clines.cc:80/1234/1234/18355
+#EXTINF:-1,AR: BEIN SPORTS 3
+http://iptv.clines.cc:80/1234/1234/438
+#EXTINF:-1,AR: BEIN SPORTS 4 HD
+http://iptv.clines.cc:80/1234/1234/18354
+#EXTINF:-1,AR: BEIN SPORTS 4
+http://iptv.clines.cc:80/1234/1234/439
+#EXTINF:-1,AR: BEIN SPORTS 5 HD
+http://iptv.clines.cc:80/1234/1234/18353
+#EXTINF:-1,AR: BEIN SPORTS 5
+http://iptv.clines.cc:80/1234/1234/440
+#EXTINF:-1,AR: BEIN SPORTS 6 HD
+http://iptv.clines.cc:80/1234/1234/18352
+#EXTINF:-1,AR: BEIN SPORTS 6
+http://iptv.clines.cc:80/1234/1234/441
+#EXTINF:-1,AR: BEIN SPORTS 7 HD
+http://iptv.clines.cc:80/1234/1234/18351
+#EXTINF:-1,AR: BEIN SPORTS 7
+http://iptv.clines.cc:80/1234/1234/442
+#EXTINF:-1,AR: BEIN SPORTS 8 HD
+http://iptv.clines.cc:80/1234/1234/18350
+#EXTINF:-1,AR: BEIN SPORTS 8
+http://iptv.clines.cc:80/1234/1234/443
+#EXTINF:-1,AR: BEIN SPORTS 9 HD
+http://iptv.clines.cc:80/1234/1234/18349
+#EXTINF:-1,AR: BEIN SPORTS 9
+http://iptv.clines.cc:80/1234/1234/444
+#EXTINF:-1,AR: BEIN SPORTS 10 HD
+http://iptv.clines.cc:80/1234/1234/18348
+#EXTINF:-1,AR: BEIN SPORTS 10
+http://iptv.clines.cc:80/1234/1234/445
+#EXTINF:-1,AR: BEIN SPORTS 11 HD
+http://iptv.clines.cc:80/1234/1234/18347
+#EXTINF:-1,AR: BEIN SPORTS 11 EN
+http://iptv.clines.cc:80/1234/1234/446
+#EXTINF:-1,AR: BEIN SPORTS 12 HD
+http://iptv.clines.cc:80/1234/1234/18346
+#EXTINF:-1,AR: BEIN SPORTS 12 EN
+http://iptv.clines.cc:80/1234/1234/447
+#EXTINF:-1,AR: BEIN SPORTS 13 HD
+http://iptv.clines.cc:80/1234/1234/18345
+#EXTINF:-1,AR: BEIN SPORTS 13 EN
+http://iptv.clines.cc:80/1234/1234/448
+#EXTINF:-1,AR: BEIN SPORTS 14 HD
+http://iptv.clines.cc:80/1234/1234/18344
+#EXTINF:-1,AR: BEIN SPORTS 14 FR
+http://iptv.clines.cc:80/1234/1234/449
+#EXTINF:-1,AR: BEIN SPORTS 15 HD
+http://iptv.clines.cc:80/1234/1234/18343
+#EXTINF:-1,AR: BEIN SPORTS 15 FR
+http://iptv.clines.cc:80/1234/1234/450
+#EXTINF:-1,AR: BEIN SPORTS 16 HD
+http://iptv.clines.cc:80/1234/1234/18342
+#EXTINF:-1,AR: BEIN SPORTS 16 FR
+http://iptv.clines.cc:80/1234/1234/451
+#EXTINF:-1,AR: BEIN SPORTS MAX1 HD
+http://iptv.clines.cc:80/1234/1234/5974
+#EXTINF:-1,AR: BEIN SPORTS MAX2 HD
+http://iptv.clines.cc:80/1234/1234/5973
+#EXTINF:-1,AR: BEIN SPORTS MAX3 HD
+http://iptv.clines.cc:80/1234/1234/5972
+#EXTINF:-1,AR: BEIN SPORTS MAX4 HD
+http://iptv.clines.cc:80/1234/1234/5511
