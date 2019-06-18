@@ -1,25 +1,2347 @@
 #EXTM3U
-#EXTINF:0,BEIN SPORTS HD 1
-http://p5.giffy.be:8080/will2019/will2019/106188
-#EXTINF:0,BEIN SPORTS HD 2
-http://p5.giffy.be:8080/will2019/will2019/106187
-#EXTINF:0,BEIN SPORTS HD 3
-http://p5.giffy.be:8080/will2019/will2019/106186
-#EXTINF:0,BEIN SPORTS HD 4
-http://p5.giffy.be:8080/will2019/will2019/106185
-#EXTINF:0,BEIN SPORTS HD 5
-http://p5.giffy.be:8080/will2019/will2019/106184
-#EXTINF:0,BEIN SPORTS HD 6
-http://p5.giffy.be:8080/will2019/will2019/106183
-#EXTINF:0,BEIN SPORTS HD 7
-http://p5.giffy.be:8080/will2019/will2019/106182
-#EXTINF:0,BEIN SPORTS HD 8
-http://p5.giffy.be:8080/will2019/will2019/106181
-#EXTINF:0,BEIN SPORTS HD 9
-http://p5.giffy.be:8080/will2019/will2019/106180
-#EXTINF:0,BEIN SPORTS HD 10
-http://p5.giffy.be:8080/will2019/will2019/106179
-#EXTINF:0,BEIN SPORTS HD 11
-http://p5.giffy.be:8080/will2019/will2019/106178
-#EXTINF:0,BEIN SPORTS HD 12
-http://p5.giffy.be:8080/will2019/will2019/106177
+#EXTINF:-1,AR: 2M Monde
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89246.m3u8
+#EXTINF:-1,AR: 7BESHA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75391.m3u8
+#EXTINF:-1,AR: A3 Algerie
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148581.m3u8
+#EXTINF:-1,AR: Aarabia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135549.m3u8
+#EXTINF:-1,AR: AB1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145487.m3u8
+#EXTINF:-1,AR: ABN Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75390.m3u8
+#EXTINF:-1,AR: Abu Dhabi Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147484.m3u8
+#EXTINF:-1,AR: Abu Dhabi HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63266.m3u8
+#EXTINF:-1,AR: Abu Dhabi Sport 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147292.m3u8
+#EXTINF:-1,AR: Abu Dhabi Sport 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147482.m3u8
+#EXTINF:-1,AR: Action
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145490.m3u8
+#EXTINF:-1,AR: AD Al Emarat HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148586.m3u8
+#EXTINF:-1,AR: AD Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75387.m3u8
+#EXTINF:-1,AR: AD SPORTS 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/134770.m3u8
+#EXTINF:-1,AR: AD SPORTS 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/134771.m3u8
+#EXTINF:-1,AR: AD SPORTS 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113215.m3u8
+#EXTINF:-1,AR: AD SPORTS 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135985.m3u8
+#EXTINF:-1,AR: Aden TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75384.m3u8
+#EXTINF:-1,AR: Afaq TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196432.m3u8
+#EXTINF:-1,AR: AFLAM 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117502.m3u8
+#EXTINF:-1,AR: Afrah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147392.m3u8
+#EXTINF:-1,AR: Aghanina Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75382.m3u8
+#EXTINF:-1,AR: Ahel Al Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135216.m3u8
+#EXTINF:-1,AR: Ahlulbayt tv English
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196433.m3u8
+#EXTINF:-1,AR: Ajial
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135217.m3u8
+#EXTINF:-1,AR: Ajyal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193016.m3u8
+#EXTINF:-1,AR: Al Aalam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196406.m3u8
+#EXTINF:-1,AR: AL AAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196530.m3u8
+#EXTINF:-1,AR: Al Ahd
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148429.m3u8
+#EXTINF:-1,AR: Al Ahd Iraqia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196535.m3u8
+#EXTINF:-1,AR: Al Ahrar TV (Libya)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159887.m3u8
+#EXTINF:-1,AR: Al Amaken Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75336.m3u8
+#EXTINF:-1,AR: Al Anbar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75335.m3u8
+#EXTINF:-1,AR: Al Anis TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116739.m3u8
+#EXTINF:-1,AR: Al Anwar 2 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146192.m3u8
+#EXTINF:-1,AR: Al Anwar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135220.m3u8
+#EXTINF:-1,AR: AL AOULA INTER 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94419.m3u8
+#EXTINF:-1,AR: Al Aqsa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196524.m3u8
+#EXTINF:-1,AR: Al Arabia News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147468.m3u8
+#EXTINF:-1,AR: AL ARABIYA AL HADATH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89883.m3u8
+#EXTINF:-1,AR: Al Araby HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121096.m3u8
+#EXTINF:-1,AR: Al Asrar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148566.m3u8
+#EXTINF:-1,AR: Al Awhad
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147317.m3u8
+#EXTINF:-1,AR: AL BAIT BAITAK CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75372.m3u8
+#EXTINF:-1,AR: Al Basira
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75371.m3u8
+#EXTINF:-1,AR: AL BILAD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121057.m3u8
+#EXTINF:-1,AR: Al Diyar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146195.m3u8
+#EXTINF:-1,AR: Al Djazairia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105318.m3u8
+#EXTINF:-1,AR: Al Ekhbaria Saudi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196405.m3u8
+#EXTINF:-1,AR: Al Ekhbariya Al Soriya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121093.m3u8
+#EXTINF:-1,AR: Al Emarat HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75367.m3u8
+#EXTINF:-1,AR: Al Fady
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110226.m3u8
+#EXTINF:-1,AR: AL FAJER
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113529.m3u8
+#EXTINF:-1,AR: AL Falastenia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105357.m3u8
+#EXTINF:-1,AR: Al Fallujah Iraq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196434.m3u8
+#EXTINF:-1,AR: AL Falstiniah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110223.m3u8
+#EXTINF:-1,AR: Al Forat TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148554.m3u8
+#EXTINF:-1,AR: AL GERIA 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193035.m3u8
+#EXTINF:-1,AR: Al Ghad Mushreq TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148574.m3u8
+#EXTINF:-1,AR: Al Ghad TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100146.m3u8
+#EXTINF:-1,AR: Al Ghadeer
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135223.m3u8
+#EXTINF:-1,AR: AL HADATH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75363.m3u8
+#EXTINF:-1,AR: Al Hadath Al Youm
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135296.m3u8
+#EXTINF:-1,AR: Al Haqiqa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135246.m3u8
+#EXTINF:-1,AR: AL HAYAT 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75316.m3u8
+#EXTINF:-1,AR: AL HAYAT ALAAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89251.m3u8
+#EXTINF:-1,AR: Al Hayat HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94429.m3u8
+#EXTINF:-1,AR: AL HAYAT MUSALSALAT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114685.m3u8
+#EXTINF:-1,AR: Al Hayat Muslsalat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146178.m3u8
+#EXTINF:-1,AR: Al Hiwar Ettounsi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147444.m3u8
+#EXTINF:-1,AR: Al Hiwar News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110208.m3u8
+#EXTINF:-1,AR: Al Horreya TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/119901.m3u8
+#EXTINF:-1,AR: Al Hurra Iraq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89886.m3u8
+#EXTINF:-1,AR: Al Ikhbaria Syria
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196394.m3u8
+#EXTINF:-1,AR: Al IMAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75313.m3u8
+#EXTINF:-1,AR: Al Iraqia News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147318.m3u8
+#EXTINF:-1,AR: Al Iraqia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148555.m3u8
+#EXTINF:-1,AR: Al Istiqama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135247.m3u8
+#EXTINF:-1,AR: Al Itejah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135248.m3u8
+#EXTINF:-1,AR: AL JADEED
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113291.m3u8
+#EXTINF:-1,AR: Al Janoubia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63147.m3u8
+#EXTINF:-1,AR: AL JAZEERA DOCU
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/103193.m3u8
+#EXTINF:-1,AR: AL JAZEERA DOCUMENT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118430.m3u8
+#EXTINF:-1,AR: Al Jazeera English HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89876.m3u8
+#EXTINF:-1,AR: Al Jazeera FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63148.m3u8
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75353.m3u8
+#EXTINF:-1,AR: Al Kahera Wal Nas 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75311.m3u8
+#EXTINF:-1,AR: Al Kahera Wal Nas 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75350.m3u8
+#EXTINF:-1,AR: Al Karma TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75310.m3u8
+#EXTINF:-1,AR: Al Kass Sport 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175827.m3u8
+#EXTINF:-1,AR: Al Kass Sport 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175828.m3u8
+#EXTINF:-1,AR: Al Kass Sport 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105379.m3u8
+#EXTINF:-1,AR: Al Kass Sport 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193039.m3u8
+#EXTINF:-1,AR: Al Kawthar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131052.m3u8
+#EXTINF:-1,AR: Al Koufeya TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196438.m3u8
+#EXTINF:-1,AR: Al Maaref TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147297.m3u8
+#EXTINF:-1,AR: Al Maddinah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196455.m3u8
+#EXTINF:-1,AR: AL MAGHARABIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89802.m3u8
+#EXTINF:-1,AR: AL MAGHARIBIA 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89803.m3u8
+#EXTINF:-1,AR: Al Maher
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196458.m3u8
+#EXTINF:-1,AR: AL MAJD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89255.m3u8
+#EXTINF:-1,AR: Al Majd 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105415.m3u8
+#EXTINF:-1,AR: Al Majd 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105417.m3u8
+#EXTINF:-1,AR: Al Majd 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135342.m3u8
+#EXTINF:-1,AR: Al Majd 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135343.m3u8
+#EXTINF:-1,AR: Al Majd Hadeeth
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116696.m3u8
+#EXTINF:-1,AR: Al Majd Kids HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89874.m3u8
+#EXTINF:-1,AR: Al Majd Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94457.m3u8
+#EXTINF:-1,AR: AL MANAR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116704.m3u8
+#EXTINF:-1,AR: Al Masrawia Aflam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116695.m3u8
+#EXTINF:-1,AR: Al Masriya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148577.m3u8
+#EXTINF:-1,AR: AL MASSAR AL OULA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135496.m3u8
+#EXTINF:-1,AR: AL MAYADEEN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145496.m3u8
+#EXTINF:-1,AR: Al MEHWAR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105343.m3u8
+#EXTINF:-1,AR: Al Mergab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148579.m3u8
+#EXTINF:-1,AR: AL NABAA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146160.m3u8
+#EXTINF:-1,AR: Al Nada TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75347.m3u8
+#EXTINF:-1,AR: AL NAHAR DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75329.m3u8
+#EXTINF:-1,AR: Al Nahar One
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75328.m3u8
+#EXTINF:-1,AR: Al Nahar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113305.m3u8
+#EXTINF:-1,AR: Al Nass
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196486.m3u8
+#EXTINF:-1,AR: Al Noujaba
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148552.m3u8
+#EXTINF:-1,AR: AL ONS TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89764.m3u8
+#EXTINF:-1,AR: AL OSTORA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75305.m3u8
+#EXTINF:-1,AR: Al Oula HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89750.m3u8
+#EXTINF:-1,AR: Al Qahira Wa Nas 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121075.m3u8
+#EXTINF:-1,AR: Al Qahira Wa Nas 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121076.m3u8
+#EXTINF:-1,AR: Al qanat 9
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75300.m3u8
+#EXTINF:-1,AR: Al Quds
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75346.m3u8
+#EXTINF:-1,AR: Al Qurain
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147324.m3u8
+#EXTINF:-1,AR: Al Rahma TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75345.m3u8
+#EXTINF:-1,AR: Al Rasheed TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/122756.m3u8
+#EXTINF:-1,AR: Al Rayan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146157.m3u8
+#EXTINF:-1,AR: AL Resala
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193023.m3u8
+#EXTINF:-1,AR: Al Salam TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196488.m3u8
+#EXTINF:-1,AR: Al Saudi 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114693.m3u8
+#EXTINF:-1,AR: AL SERAJ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193026.m3u8
+#EXTINF:-1,AR: AL SHAREYYAH CHANNEL
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193033.m3u8
+#EXTINF:-1,AR: Al Sharqiya FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105659.m3u8
+#EXTINF:-1,AR: Al Sharqiya News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105386.m3u8
+#EXTINF:-1,AR: AL Sharquia HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196445.m3u8
+#EXTINF:-1,AR: Al Sirat TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89923.m3u8
+#EXTINF:-1,AR: Al Sumaria TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110244.m3u8
+#EXTINF:-1,AR: Al taghier
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196437.m3u8
+#EXTINF:-1,AR: Al Thanya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135298.m3u8
+#EXTINF:-1,AR: Al Turkmenia Tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148557.m3u8
+#EXTINF:-1,AR: Al Waad Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148567.m3u8
+#EXTINF:-1,AR: Al Waha TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148548.m3u8
+#EXTINF:-1,AR: Alaan TV Lebanon
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75324.m3u8
+#EXTINF:-1,AR: AlAfasy TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75323.m3u8
+#EXTINF:-1,AR: AlAhly TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75378.m3u8
+#EXTINF:-1,AR: ALALAM NEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63137.m3u8
+#EXTINF:-1,AR: Alarabi NEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110157.m3u8
+#EXTINF:-1,AR: AlARABIA ALHADATH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108171.m3u8
+#EXTINF:-1,AR: AlArabiya HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63140.m3u8
+#EXTINF:-1,AR: AlASSEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75373.m3u8
+#EXTINF:-1,AR: ALBAEENAH IRAQ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135295.m3u8
+#EXTINF:-1,AR: AlBaghdadia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/107952.m3u8
+#EXTINF:-1,AR: AlDijla
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105401.m3u8
+#EXTINF:-1,AR: ALEKHBARIA NEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63143.m3u8
+#EXTINF:-1,AR: Alerth Alnabawi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196457.m3u8
+#EXTINF:-1,AR: Alerth Alnbawi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75319.m3u8
+#EXTINF:-1,AR: AlFadjr 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105351.m3u8
+#EXTINF:-1,AR: AlFadjr 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105352.m3u8
+#EXTINF:-1,AR: AlFAJR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98391.m3u8
+#EXTINF:-1,AR: ALFATH Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135245.m3u8
+#EXTINF:-1,AR: ALGERIA 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113477.m3u8
+#EXTINF:-1,AR: Algerie
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110229.m3u8
+#EXTINF:-1,AR: Algerie 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101908.m3u8
+#EXTINF:-1,AR: Algerie 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63145.m3u8
+#EXTINF:-1,AR: Algerie 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124937.m3u8
+#EXTINF:-1,AR: Alhadath Iraqia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113443.m3u8
+#EXTINF:-1,AR: Alhadath News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110272.m3u8
+#EXTINF:-1,AR: Alhayah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110109.m3u8
+#EXTINF:-1,AR: Alhayah 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110110.m3u8
+#EXTINF:-1,AR: Alhayah Alaan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196449.m3u8
+#EXTINF:-1,AR: Alhayah Muslsalat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110111.m3u8
+#EXTINF:-1,AR: AlHayat Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95769.m3u8
+#EXTINF:-1,AR: AlHayat Musalsalat (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95768.m3u8
+#EXTINF:-1,AR: Alhayat We Alnas
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135495.m3u8
+#EXTINF:-1,AR: AlHiwar ElTounsi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63100.m3u8
+#EXTINF:-1,AR: AlInsen TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105335.m3u8
+#EXTINF:-1,AR: AlJadeed (LEB)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63152.m3u8
+#EXTINF:-1,AR: AlJazaairia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/107969.m3u8
+#EXTINF:-1,AR: AlJazeera Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135555.m3u8
+#EXTINF:-1,AR: AlJazeera Documentary HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75355.m3u8
+#EXTINF:-1,AR: AlJazeera Mobasher
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114430.m3u8
+#EXTINF:-1,AR: AlJazeera NEWS (EN)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145491.m3u8
+#EXTINF:-1,AR: Aljessr
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146210.m3u8
+#EXTINF:-1,AR: ALKAHERA WALNAS 2 (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108208.m3u8
+#EXTINF:-1,AR: Alkahera Welnas
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113523.m3u8
+#EXTINF:-1,AR: Alkalema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113378.m3u8
+#EXTINF:-1,AR: AlKass 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118533.m3u8
+#EXTINF:-1,AR: AlKass 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105378.m3u8
+#EXTINF:-1,AR: AlKass Sport 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/84510.m3u8
+#EXTINF:-1,AR: AlKhalij TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135349.m3u8
+#EXTINF:-1,AR: ALKOFIYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135249.m3u8
+#EXTINF:-1,AR: AlMaaly
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135350.m3u8
+#EXTINF:-1,AR: AlMagharibia Two
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146979.m3u8
+#EXTINF:-1,AR: Almajd Space
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196460.m3u8
+#EXTINF:-1,AR: AlMalakoot
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110073.m3u8
+#EXTINF:-1,AR: AlManar (LEB)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75338.m3u8
+#EXTINF:-1,AR: Almasriyah (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105344.m3u8
+#EXTINF:-1,AR: AlMawsleya TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110248.m3u8
+#EXTINF:-1,AR: ALMAYADEEN (LEB)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63154.m3u8
+#EXTINF:-1,AR: AlMINBAR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135233.m3u8
+#EXTINF:-1,AR: ALMOURABITOUNE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90110.m3u8
+#EXTINF:-1,AR: AlMustakila TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110199.m3u8
+#EXTINF:-1,AR: AlNaeem TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90048.m3u8
+#EXTINF:-1,AR: AlNahar (ALG)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105316.m3u8
+#EXTINF:-1,AR: AlNahar (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108204.m3u8
+#EXTINF:-1,AR: Alnahar Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146082.m3u8
+#EXTINF:-1,AR: Alnas Tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105420.m3u8
+#EXTINF:-1,AR: Alnoor
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147465.m3u8
+#EXTINF:-1,AR: AlQAMAR
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135236.m3u8
+#EXTINF:-1,AR: Alquran Mekka
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196463.m3u8
+#EXTINF:-1,AR: Alrafiden
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110083.m3u8
+#EXTINF:-1,AR: AlRahmah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105387.m3u8
+#EXTINF:-1,AR: ALRAI TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63155.m3u8
+#EXTINF:-1,AR: ALRiadia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63159.m3u8
+#EXTINF:-1,AR: Alrisala
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196465.m3u8
+#EXTINF:-1,AR: Alruqia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135351.m3u8
+#EXTINF:-1,AR: AlSA3A AFLAM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135238.m3u8
+#EXTINF:-1,AR: AlSaeedah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75296.m3u8
+#EXTINF:-1,AR: AlSeha Waljamal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135537.m3u8
+#EXTINF:-1,AR: ALSHARGIYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63151.m3u8
+#EXTINF:-1,AR: ALSHARJAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/122757.m3u8
+#EXTINF:-1,AR: Alsharq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146182.m3u8
+#EXTINF:-1,AR: AlSHASHA CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135240.m3u8
+#EXTINF:-1,AR: Alshouroq Sudan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113362.m3u8
+#EXTINF:-1,AR: AlTounsia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63188.m3u8
+#EXTINF:-1,AR: altunisia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63156.m3u8
+#EXTINF:-1,AR: AlTurkmania TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113399.m3u8
+#EXTINF:-1,AR: Alyaum TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100148.m3u8
+#EXTINF:-1,AR: Amhara TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135251.m3u8
+#EXTINF:-1,AR: Amman TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121118.m3u8
+#EXTINF:-1,AR: ANB iraq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/176129.m3u8
+#EXTINF:-1,AR: ANIMAL PLANET HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78058.m3u8
+#EXTINF:-1,AR: ANN News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130935.m3u8
+#EXTINF:-1,AR: Ann TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108174.m3u8
+#EXTINF:-1,AR: ANNAJAH NBC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75287.m3u8
+#EXTINF:-1,AR: Aoula Maroc HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63132.m3u8
+#EXTINF:-1,AR: ARABICA MUSIC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146202.m3u8
+#EXTINF:-1,AR: Arrabia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63158.m3u8
+#EXTINF:-1,AR: Arriadia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105328.m3u8
+#EXTINF:-1,AR: ARRIADIA TNT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143734.m3u8
+#EXTINF:-1,AR: Arryadia HD Live
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116690.m3u8
+#EXTINF:-1,AR: ART Aflam 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63164.m3u8
+#EXTINF:-1,AR: ART AFLAM 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120707.m3u8
+#EXTINF:-1,AR: ART Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63161.m3u8
+#EXTINF:-1,AR: Art Hekayat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101185.m3u8
+#EXTINF:-1,AR: ART Hekayat 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63163.m3u8
+#EXTINF:-1,AR: ART Hekayat 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63162.m3u8
+#EXTINF:-1,AR: Asia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110161.m3u8
+#EXTINF:-1,AR: Assadissa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94421.m3u8
+#EXTINF:-1,AR: Atfal & Mawaheb
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135352.m3u8
+#EXTINF:-1,AR: Athagavia (MR)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135572.m3u8
+#EXTINF:-1,AR: Attassia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105396.m3u8
+#EXTINF:-1,AR: Atv Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113383.m3u8
+#EXTINF:-1,AR: Awdeh TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75278.m3u8
+#EXTINF:-1,AR: AYAAT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146162.m3u8
+#EXTINF:-1,AR: Azhari TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75276.m3u8
+#EXTINF:-1,AR: B4U AFLAM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121119.m3u8
+#EXTINF:-1,AR: B4U Plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113354.m3u8
+#EXTINF:-1,AR: Baghdad TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/103192.m3u8
+#EXTINF:-1,AR: Bahia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75151.m3u8
+#EXTINF:-1,AR: Bahrain International HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129771.m3u8
+#EXTINF:-1,AR: Bahrain Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129772.m3u8
+#EXTINF:-1,AR: Bahrain Sports
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110191.m3u8
+#EXTINF:-1,AR: Bahrain TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63167.m3u8
+#EXTINF:-1,AR: Baraem Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94441.m3u8
+#EXTINF:-1,AR: BBC Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116687.m3u8
+#EXTINF:-1,AR: BBC World News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148585.m3u8
+#EXTINF:-1,VIP: AR - NAT GEO Wild HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198627.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 1 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197967.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197979.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197981.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197983.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 5 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197985.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 6 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197986.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 7 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197988.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 8 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197990.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197992.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 10 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197969.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 11 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211810.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 12 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197973.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HEVC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208745.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208742.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208740.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208739.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208738.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208737.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 6
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208736.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208735.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208734.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 10
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208741.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198003.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198002.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198004.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197968.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197980.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197982.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197984.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198060.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197987.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197989.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 8 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197991.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198062.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197970.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 11 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197971.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 12 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197974.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 13 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197975.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports NBA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197999.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198000.m3u8
+#EXTINF:-1,CARTOON: AR - CARTOON NETWORK
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206227.m3u8
+#EXTINF:-1,CARTOON: AR - toyor Baby
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/209146.m3u8
+#EXTINF:-1,VIP: AR - MyHD Cinemachi Kids HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206245.m3u8
+#EXTINF:-1,###### ARAB VIP ######
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/213060.m3u8
+#EXTINF:-1,AR: AD SPORTS 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111591.m3u8
+#EXTINF:-1,AR: AD SPORTS 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146941.m3u8
+#EXTINF:-1,AR: Aghapy TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196490.m3u8
+#EXTINF:-1,AR: AJMAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135485.m3u8
+#EXTINF:-1,AR: AlGhad Al Mushreq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75365.m3u8
+#EXTINF:-1,AR: Bahrain Sports 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148587.m3u8
+#EXTINF:-1,AR: Bahrain Sports 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148588.m3u8
+#EXTINF:-1,AR: beIN Sports 1 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197923.m3u8
+#EXTINF:-1,AR: beIN Sports 2 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62752.m3u8
+#EXTINF:-1,AR: beIN Sports 3 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/164361.m3u8
+#EXTINF:-1,AR: beIN Sports 4 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62750.m3u8
+#EXTINF:-1,AR: beIN Sports 5 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62749.m3u8
+#EXTINF:-1,AR: beIN Sports 6 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62748.m3u8
+#EXTINF:-1,AR: beIN Sports 7 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62747.m3u8
+#EXTINF:-1,AR: beIN Sports 8 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62746.m3u8
+#EXTINF:-1,AR: beIN Sports 9 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62745.m3u8
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62751.m3u8
+#EXTINF:-1,AR: beIN Sports 10 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197924.m3u8
+#EXTINF:-1,AR: beIN Sports 11 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208709.m3u8
+#EXTINF:-1,AR: beIN Sports 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/77965.m3u8
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62259.m3u8
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93261.m3u8
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198058.m3u8
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/77957.m3u8
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93264.m3u8
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93262.m3u8
+#EXTINF:-1,AR: beIN Sports 9 HEVC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208744.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208725.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208726.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208727.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208728.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208729.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 6
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208730.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208731.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208732.m3u8
+#EXTINF:-1,AR: beIN Sports HEVC 10
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208733.m3u8
+#EXTINF:-1,AR: beoutQ 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/154549.m3u8
+#EXTINF:-1,AR: beoutQ 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120965.m3u8
+#EXTINF:-1,AR: beoutQ 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131563.m3u8
+#EXTINF:-1,AR: Citruss TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105364.m3u8
+#EXTINF:-1,AR: Echorouk News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113481.m3u8
+#EXTINF:-1,AR: QURAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193120.m3u8
+#EXTINF:-1,AR: SAHAR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193126.m3u8
+#EXTINF:-1,AR: SAT TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193128.m3u8
+#EXTINF:-1,AR: The Savior
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/164438.m3u8
+#EXTINF:-1,AR: beIN BABY TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120713.m3u8
+#EXTINF:-1,AR: beIN Baraem HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/106919.m3u8
+#EXTINF:-1,AR: beIN Be Junior
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110868.m3u8
+#EXTINF:-1,AR: beIN BOOMERANG
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111058.m3u8
+#EXTINF:-1,AR: beIN Cartoon Network HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175564.m3u8
+#EXTINF:-1,AR: beIN DMAX
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94440.m3u8
+#EXTINF:-1,AR: beIN Drama 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120710.m3u8
+#EXTINF:-1,AR: beIN Dream works HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110869.m3u8
+#EXTINF:-1,AR: beIN DTX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110870.m3u8
+#EXTINF:-1,AR: beIN Fatafet HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144607.m3u8
+#EXTINF:-1,AR: beIN Fox Movies HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/106914.m3u8
+#EXTINF:-1,AR: Bein Gourmet HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105436.m3u8
+#EXTINF:-1,AR: beIN Jeem HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98332.m3u8
+#EXTINF:-1,AR: beIN MOVIES 1 Premiere HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63273.m3u8
+#EXTINF:-1,AR: beIN MOVIES 2 AcTION HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63271.m3u8
+#EXTINF:-1,AR: beIN Movies 3 Drama FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63270.m3u8
+#EXTINF:-1,AR: beIN Movies 4 Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/197648.m3u8
+#EXTINF:-1,AR: beIN Series 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144614.m3u8
+#EXTINF:-1,AR: beIN Series 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130970.m3u8
+#EXTINF:-1,AR: beIN Sports 12 FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145599.m3u8
+#EXTINF:-1,AR: beIN Sports 9 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/198061.m3u8
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62744.m3u8
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/74643.m3u8
+#EXTINF:-1,AR: beIN Sports 12 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93269.m3u8
+#EXTINF:-1,AR: beIN Sports 13 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/97054.m3u8
+#EXTINF:-1,AR: beIN Sports Max 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/65671.m3u8
+#EXTINF:-1,AR: beIN Sports Max 6
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/65670.m3u8
+#EXTINF:-1,AR: beIN Sports Max 7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/65669.m3u8
+#EXTINF:-1,AR: beIN Sports Max 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/65668.m3u8
+#EXTINF:-1,AR: beIN Sports Max 9
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/65667.m3u8
+#EXTINF:-1,AR: beIN Sports NBA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136392.m3u8
+#EXTINF:-1,AR: beIN Sports News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62754.m3u8
+#EXTINF:-1,AR: Beity TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135302.m3u8
+#EXTINF:-1,AR: BELODY AFLAM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135254.m3u8
+#EXTINF:-1,AR: BELQEES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75156.m3u8
+#EXTINF:-1,AR: Bena TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196528.m3u8
+#EXTINF:-1,AR: beoutQ 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131564.m3u8
+#EXTINF:-1,AR: beoutQ 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131565.m3u8
+#EXTINF:-1,AR: beoutQ 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131566.m3u8
+#EXTINF:-1,AR: beoutQ 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/119250.m3u8
+#EXTINF:-1,AR: Berbere Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105323.m3u8
+#EXTINF:-1,AR: Berbere Television
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105322.m3u8
+#EXTINF:-1,AR: Berbere tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135338.m3u8
+#EXTINF:-1,AR: Beur TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101730.m3u8
+#EXTINF:-1,AR: BOX OFFICE 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105381.m3u8
+#EXTINF:-1,AR: Cairo Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113312.m3u8
+#EXTINF:-1,AR: Cairo Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75158.m3u8
+#EXTINF:-1,AR: Canal Algerie
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113484.m3u8
+#EXTINF:-1,AR: CANAL ALGERIE (ALG)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63170.m3u8
+#EXTINF:-1,AR: Canal Atlas
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105330.m3u8
+#EXTINF:-1,AR: Carthage
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131068.m3u8
+#EXTINF:-1,AR: Carton
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196363.m3u8
+#EXTINF:-1,AR: CARTOON NETWORK
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89904.m3u8
+#EXTINF:-1,AR: CATV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135497.m3u8
+#EXTINF:-1,AR: CBC (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108184.m3u8
+#EXTINF:-1,AR: Cbc Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113310.m3u8
+#EXTINF:-1,AR: CBC Extra HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113309.m3u8
+#EXTINF:-1,AR: CBC HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63172.m3u8
+#EXTINF:-1,AR: CBC Sofra
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113308.m3u8
+#EXTINF:-1,AR: CGTN-Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135255.m3u8
+#EXTINF:-1,AR: CHADA FM HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89762.m3u8
+#EXTINF:-1,AR: CHADA TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135542.m3u8
+#EXTINF:-1,AR: CHAMS TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135498.m3u8
+#EXTINF:-1,AR: Charika Kabtv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105414.m3u8
+#EXTINF:-1,AR: Chourouk News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105519.m3u8
+#EXTINF:-1,AR: Chourouk TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105520.m3u8
+#EXTINF:-1,AR: CIMA (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108183.m3u8
+#EXTINF:-1,AR: CIMA ALI BABA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75160.m3u8
+#EXTINF:-1,AR: Cima Tube
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196514.m3u8
+#EXTINF:-1,AR: Cima TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75162.m3u8
+#EXTINF:-1,AR: Cinema 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116762.m3u8
+#EXTINF:-1,AR: CINEMA 1 (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75164.m3u8
+#EXTINF:-1,AR: Cinema 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108219.m3u8
+#EXTINF:-1,AR: Cinema Pro
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113325.m3u8
+#EXTINF:-1,AR: CINEMA TUBE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75167.m3u8
+#EXTINF:-1,AR: CIRA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135353.m3u8
+#EXTINF:-1,AR: CLACKET DRAMA ZAMAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135303.m3u8
+#EXTINF:-1,AR: CN Arabia Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110264.m3u8
+#EXTINF:-1,AR: CN Arabia kids new
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135501.m3u8
+#EXTINF:-1,AR: CNBC Arabia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146183.m3u8
+#EXTINF:-1,AR: CNBC ARABIYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75169.m3u8
+#EXTINF:-1,AR: CNN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135502.m3u8
+#EXTINF:-1,AR: COMEDIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196364.m3u8
+#EXTINF:-1,AR: CORAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131070.m3u8
+#EXTINF:-1,AR: CRIME & INVESTIGATION
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118523.m3u8
+#EXTINF:-1,AR: Csat 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196491.m3u8
+#EXTINF:-1,AR: CTV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63080.m3u8
+#EXTINF:-1,AR: Cyc 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113545.m3u8
+#EXTINF:-1,AR: Daawah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130949.m3u8
+#EXTINF:-1,AR: Dabanga Sudan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146203.m3u8
+#EXTINF:-1,AR: Dejlah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196442.m3u8
+#EXTINF:-1,AR: Dewan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135503.m3u8
+#EXTINF:-1,AR: Dijlah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110242.m3u8
+#EXTINF:-1,AR: Discovery Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118521.m3u8
+#EXTINF:-1,AR: Discovery Science FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63131.m3u8
+#EXTINF:-1,AR: DISNEY JUNIOR
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118514.m3u8
+#EXTINF:-1,AR: Diyalana
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135304.m3u8
+#EXTINF:-1,AR: DMC Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113317.m3u8
+#EXTINF:-1,AR: DMC HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113315.m3u8
+#EXTINF:-1,AR: DMC Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135305.m3u8
+#EXTINF:-1,AR: DMC Masraheyat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135544.m3u8
+#EXTINF:-1,AR: DMC News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135306.m3u8
+#EXTINF:-1,AR: Dmc Sports
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196513.m3u8
+#EXTINF:-1,AR: DMC Sports (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73334.m3u8
+#EXTINF:-1,AR: DOLLY MOSALSALAT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193059.m3u8
+#EXTINF:-1,AR: Drama Plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111213.m3u8
+#EXTINF:-1,AR: DREAM 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89273.m3u8
+#EXTINF:-1,AR: Dream TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73356.m3u8
+#EXTINF:-1,AR: DUBAI Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193061.m3u8
+#EXTINF:-1,AR: DUBAI HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63181.m3u8
+#EXTINF:-1,AR: DUBAI NOOR
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121036.m3u8
+#EXTINF:-1,AR: Dubai One HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63177.m3u8
+#EXTINF:-1,AR: Dubai Racing 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63178.m3u8
+#EXTINF:-1,AR: Dubai Racing 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63179.m3u8
+#EXTINF:-1,AR: Dubai Racing 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135307.m3u8
+#EXTINF:-1,AR: Dubai Sama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118805.m3u8
+#EXTINF:-1,AR: Dubai Sport 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130965.m3u8
+#EXTINF:-1,AR: Dubai Sport 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110126.m3u8
+#EXTINF:-1,AR: Dubai Sport 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63180.m3u8
+#EXTINF:-1,AR: Dubai Sport 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147291.m3u8
+#EXTINF:-1,AR: Dubai Sports HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73335.m3u8
+#EXTINF:-1,AR: DUBAI ZAMAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73357.m3u8
+#EXTINF:-1,AR: DW Arabia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116765.m3u8
+#EXTINF:-1,AR: DW Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146146.m3u8
+#EXTINF:-1,AR: Dw News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110273.m3u8
+#EXTINF:-1,AR: Dzaier TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105521.m3u8
+#EXTINF:-1,AR: Dzair 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135309.m3u8
+#EXTINF:-1,AR: Dzair 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135508.m3u8
+#EXTINF:-1,AR: Dzair Jannah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147448.m3u8
+#EXTINF:-1,AR: Dzair News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63182.m3u8
+#EXTINF:-1,AR: DZAIR TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89799.m3u8
+#EXTINF:-1,AR: Echorok News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116726.m3u8
+#EXTINF:-1,AR: Echorouk Benna
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193067.m3u8
+#EXTINF:-1,AR: ECHOROUK TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63183.m3u8
+#EXTINF:-1,AR: Echorouq News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196443.m3u8
+#EXTINF:-1,AR: Echourouk Benna
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63184.m3u8
+#EXTINF:-1,AR: Echourouk TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105313.m3u8
+#EXTINF:-1,AR: El Bilad TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89795.m3u8
+#EXTINF:-1,AR: El DJAZAIRIA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63186.m3u8
+#EXTINF:-1,AR: EL HADDAF
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121069.m3u8
+#EXTINF:-1,AR: El Heddaf
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196371.m3u8
+#EXTINF:-1,AR: EL HIWAR ETTOUNISI TV 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118411.m3u8
+#EXTINF:-1,AR: El Mahadra (MR)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135573.m3u8
+#EXTINF:-1,AR: El Mehwar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196531.m3u8
+#EXTINF:-1,AR: El Moled TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147394.m3u8
+#EXTINF:-1,AR: El sharq TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73360.m3u8
+#EXTINF:-1,AR: ElFADJR TV DZ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135512.m3u8
+#EXTINF:-1,AR: Elhiwar Ettounsi TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113466.m3u8
+#EXTINF:-1,AR: Elmouritania
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148558.m3u8
+#EXTINF:-1,AR: ELMOURITANIA (MR)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135578.m3u8
+#EXTINF:-1,AR: Elmouritania 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148559.m3u8
+#EXTINF:-1,AR: Elwatania Tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148560.m3u8
+#EXTINF:-1,AR: Ennahar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193070.m3u8
+#EXTINF:-1,AR: Ennahar Algerie
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147447.m3u8
+#EXTINF:-1,AR: ENNAHAR ONE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131074.m3u8
+#EXTINF:-1,AR: Ennahar TV Algeria HQ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143729.m3u8
+#EXTINF:-1,AR: ENTV Algerie
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196370.m3u8
+#EXTINF:-1,AR: ENTV TERRESTRE DZ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118391.m3u8
+#EXTINF:-1,AR: Eriteria TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135257.m3u8
+#EXTINF:-1,AR: ES TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135258.m3u8
+#EXTINF:-1,AR: Esc
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148570.m3u8
+#EXTINF:-1,AR: ETIHAD TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90080.m3u8
+#EXTINF:-1,AR: Euro News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129773.m3u8
+#EXTINF:-1,AR: EURONEWS Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196407.m3u8
+#EXTINF:-1,AR: Extra News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118811.m3u8
+#EXTINF:-1,AR: Fadjr TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105324.m3u8
+#EXTINF:-1,AR: Falastiniah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148561.m3u8
+#EXTINF:-1,AR: FAMILY DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135312.m3u8
+#EXTINF:-1,AR: FATAFEAT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124752.m3u8
+#EXTINF:-1,AR: FDF
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135538.m3u8
+#EXTINF:-1,AR: First HBO
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158848.m3u8
+#EXTINF:-1,AR: FOX MOVIES ACTION
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124754.m3u8
+#EXTINF:-1,AR: FOX MOVIES HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124755.m3u8
+#EXTINF:-1,AR: France 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105412.m3u8
+#EXTINF:-1,AR: Free TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135259.m3u8
+#EXTINF:-1,AR: Freedom TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135354.m3u8
+#EXTINF:-1,AR: Fujairah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196546.m3u8
+#EXTINF:-1,AR: FUNOON TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73370.m3u8
+#EXTINF:-1,AR: Future Lebanon
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146129.m3u8
+#EXTINF:-1,AR: FUTURE TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110241.m3u8
+#EXTINF:-1,AR: GM ALWAN HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147503.m3u8
+#EXTINF:-1,AR: GM CHAABI
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89769.m3u8
+#EXTINF:-1,AR: GM COMEDIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89766.m3u8
+#EXTINF:-1,AR: GM MOVIES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147504.m3u8
+#EXTINF:-1,AR: GM MUSIC TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147505.m3u8
+#EXTINF:-1,AR: GM RAP ARAB
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89773.m3u8
+#EXTINF:-1,AR: GREEN LIFELocal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193072.m3u8
+#EXTINF:-1,AR: HALA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147506.m3u8
+#EXTINF:-1,AR: Halab Today TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196393.m3u8
+#EXTINF:-1,AR: HALABA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89944.m3u8
+#EXTINF:-1,AR: HANIBAL TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116675.m3u8
+#EXTINF:-1,AR: HAREEM ELSULTAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73374.m3u8
+#EXTINF:-1,AR: HAWACOM TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108021.m3u8
+#EXTINF:-1,AR: HAWAS TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135515.m3u8
+#EXTINF:-1,AR: Hekayat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135516.m3u8
+#EXTINF:-1,AR: Hekayat2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135517.m3u8
+#EXTINF:-1,AR: Heya TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73377.m3u8
+#EXTINF:-1,AR: HISTORY 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118528.m3u8
+#EXTINF:-1,AR: HISTORY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118527.m3u8
+#EXTINF:-1,AR: Hod Hod TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135559.m3u8
+#EXTINF:-1,AR: Hodhood
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196415.m3u8
+#EXTINF:-1,AR: Hona alquds
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110185.m3u8
+#EXTINF:-1,AR: Hona Baghdad
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124938.m3u8
+#EXTINF:-1,AR: Huda TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108023.m3u8
+#EXTINF:-1,AR: I film Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135260.m3u8
+#EXTINF:-1,AR: I24 News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147474.m3u8
+#EXTINF:-1,AR: IMAGINE MOVIES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73379.m3u8
+#EXTINF:-1,AR: Iqraa Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63192.m3u8
+#EXTINF:-1,AR: Iqraa Pakistan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196469.m3u8
+#EXTINF:-1,AR: Iraq Future
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135565.m3u8
+#EXTINF:-1,AR: Iraq Now
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135518.m3u8
+#EXTINF:-1,AR: Iraqi Education
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135899.m3u8
+#EXTINF:-1,AR: IRAQI Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118813.m3u8
+#EXTINF:-1,AR: Iraqiya TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196444.m3u8
+#EXTINF:-1,AR: Ishtar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110237.m3u8
+#EXTINF:-1,AR: IUC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63079.m3u8
+#EXTINF:-1,AR: Jeem TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94438.m3u8
+#EXTINF:-1,AR: JORDAN ADWAA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193079.m3u8
+#EXTINF:-1,AR: Jordan Amen
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147355.m3u8
+#EXTINF:-1,AR: Jordan HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73383.m3u8
+#EXTINF:-1,AR: Jordan Ro2ya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110155.m3u8
+#EXTINF:-1,AR: Jordan Sports
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73338.m3u8
+#EXTINF:-1,AR: Kaifa Islam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146169.m3u8
+#EXTINF:-1,AR: KANA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135522.m3u8
+#EXTINF:-1,AR: Karameesh Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63193.m3u8
+#EXTINF:-1,AR: Karbala TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110087.m3u8
+#EXTINF:-1,AR: Karma TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113408.m3u8
+#EXTINF:-1,AR: Kassala TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110167.m3u8
+#EXTINF:-1,AR: KBC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121604.m3u8
+#EXTINF:-1,AR: Koky Kids TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135262.m3u8
+#EXTINF:-1,AR: Kol Alnas TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105356.m3u8
+#EXTINF:-1,AR: KSA Sport 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135339.m3u8
+#EXTINF:-1,AR: KSA SPORTS 2 + HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131082.m3u8
+#EXTINF:-1,AR: KTV 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90098.m3u8
+#EXTINF:-1,AR: KTV 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90099.m3u8
+#EXTINF:-1,AR: Ktv Al Arabi
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135560.m3u8
+#EXTINF:-1,AR: KTV Ethraa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73392.m3u8
+#EXTINF:-1,AR: Ktv Plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148550.m3u8
+#EXTINF:-1,AR: KTV quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135345.m3u8
+#EXTINF:-1,AR: KTV s.plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135346.m3u8
+#EXTINF:-1,AR: KTV SPORT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73339.m3u8
+#EXTINF:-1,AR: Kuwait 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95759.m3u8
+#EXTINF:-1,AR: Kuwait 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63195.m3u8
+#EXTINF:-1,AR: Kuwait Alarabi HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146186.m3u8
+#EXTINF:-1,AR: Kuwait Ethraa HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146187.m3u8
+#EXTINF:-1,AR: Kuwait Plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110156.m3u8
+#EXTINF:-1,AR: Kuwait Sport HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95761.m3u8
+#EXTINF:-1,AR: Kuwait Sport Live HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146188.m3u8
+#EXTINF:-1,AR: Kuwait Sport Plus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95762.m3u8
+#EXTINF:-1,AR: Kuwait TV3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146173.m3u8
+#EXTINF:-1,AR: Kuwait TV4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146175.m3u8
+#EXTINF:-1,AR: Lana
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108027.m3u8
+#EXTINF:-1,AR: LBC HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113287.m3u8
+#EXTINF:-1,AR: LBC Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146128.m3u8
+#EXTINF:-1,AR: LCD MOVIES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135263.m3u8
+#EXTINF:-1,AR: LDC Lebanon
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63198.m3u8
+#EXTINF:-1,AR: LDC Movies
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193088.m3u8
+#EXTINF:-1,AR: Lebanon TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63199.m3u8
+#EXTINF:-1,AR: Libya 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63200.m3u8
+#EXTINF:-1,AR: LIBYA 218
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73395.m3u8
+#EXTINF:-1,AR: Libya 218 NEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114699.m3u8
+#EXTINF:-1,AR: Libya 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73396.m3u8
+#EXTINF:-1,AR: LIBYA AL MARAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98434.m3u8
+#EXTINF:-1,AR: Libya Al-Ahrar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135265.m3u8
+#EXTINF:-1,AR: libya Alhadath
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196425.m3u8
+#EXTINF:-1,AR: LIBYA ALRASMEYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73399.m3u8
+#EXTINF:-1,AR: Libya Alwatan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196426.m3u8
+#EXTINF:-1,AR: Libya Alwatanya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110179.m3u8
+#EXTINF:-1,AR: LIBYA CHANNEL
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73404.m3u8
+#EXTINF:-1,AR: Libya Elwatan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193090.m3u8
+#EXTINF:-1,AR: Libya Future TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196427.m3u8
+#EXTINF:-1,AR: Libya Hadath TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114697.m3u8
+#EXTINF:-1,AR: Libya News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196428.m3u8
+#EXTINF:-1,AR: LIBYA ONE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63201.m3u8
+#EXTINF:-1,AR: Libya Panorama TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73402.m3u8
+#EXTINF:-1,AR: LIBYA RASMIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98435.m3u8
+#EXTINF:-1,AR: Libya Sport Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113486.m3u8
+#EXTINF:-1,AR: LIBYA WAAD FM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131040.m3u8
+#EXTINF:-1,AR: Logos TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73406.m3u8
+#EXTINF:-1,AR: M CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193091.m3u8
+#EXTINF:-1,AR: M Classic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135545.m3u8
+#EXTINF:-1,AR: M TUNISIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113465.m3u8
+#EXTINF:-1,AR: Maan News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105355.m3u8
+#EXTINF:-1,AR: Maan TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73411.m3u8
+#EXTINF:-1,AR: Majd
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135316.m3u8
+#EXTINF:-1,AR: Majid Kids TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63202.m3u8
+#EXTINF:-1,AR: Makkah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63402.m3u8
+#EXTINF:-1,AR: MANAR
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129412.m3u8
+#EXTINF:-1,AR: Mara7 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135317.m3u8
+#EXTINF:-1,AR: Marah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196399.m3u8
+#EXTINF:-1,AR: MARJAEYAT 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193093.m3u8
+#EXTINF:-1,AR: Masdar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147428.m3u8
+#EXTINF:-1,AR: Maspero Zaman
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73417.m3u8
+#EXTINF:-1,AR: MASR ALHAYAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121083.m3u8
+#EXTINF:-1,AR: Mazazikh TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147387.m3u8
+#EXTINF:-1,AR: MAZIKA HITS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193095.m3u8
+#EXTINF:-1,AR: MAZIKA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105434.m3u8
+#EXTINF:-1,AR: Mazzika1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196504.m3u8
+#EXTINF:-1,AR: MBC 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156682.m3u8
+#EXTINF:-1,AR: MBC 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156683.m3u8
+#EXTINF:-1,AR: MBC 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156684.m3u8
+#EXTINF:-1,AR: MBC 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111217.m3u8
+#EXTINF:-1,AR: MBC Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111218.m3u8
+#EXTINF:-1,AR: MBC Bollywood HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63209.m3u8
+#EXTINF:-1,AR: MBC Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94409.m3u8
+#EXTINF:-1,AR: MBC Drama+ HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206329.m3u8
+#EXTINF:-1,AR: MBC Masr 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147373.m3u8
+#EXTINF:-1,AR: MBC MASR 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73421.m3u8
+#EXTINF:-1,AR: MBC MASR HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63130.m3u8
+#EXTINF:-1,AR: MBC Max HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63212.m3u8
+#EXTINF:-1,AR: MBC Pro Sport 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196385.m3u8
+#EXTINF:-1,AR: MBC Pro Sport 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196386.m3u8
+#EXTINF:-1,AR: MBC Sports Pro 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/126201.m3u8
+#EXTINF:-1,AR: MBC SPORTS Pro 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143732.m3u8
+#EXTINF:-1,AR: MBC VARIETY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89852.m3u8
+#EXTINF:-1,AR: MBC+ Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118442.m3u8
+#EXTINF:-1,AR: MBC+ DRAMA HD 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118443.m3u8
+#EXTINF:-1,AR: MBC+ Variety
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121018.m3u8
+#EXTINF:-1,AR: Mecca Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113532.m3u8
+#EXTINF:-1,AR: Mecca TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108032.m3u8
+#EXTINF:-1,AR: Medi 1 Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98442.m3u8
+#EXTINF:-1,AR: Medi 1 TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63216.m3u8
+#EXTINF:-1,AR: MEDI1 TV AFRIQUE HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147501.m3u8
+#EXTINF:-1,AR: Mehwar
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116665.m3u8
+#EXTINF:-1,AR: MEKAMELEEN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73424.m3u8
+#EXTINF:-1,AR: Mekke Saudi Quran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196487.m3u8
+#EXTINF:-1,AR: MELODY CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121084.m3u8
+#EXTINF:-1,AR: MELODY CLASSIC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73425.m3u8
+#EXTINF:-1,AR: Melody Hits
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110113.m3u8
+#EXTINF:-1,AR: Menhag Al Nouboua
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196472.m3u8
+#EXTINF:-1,AR: MESAT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63078.m3u8
+#EXTINF:-1,AR: Mickey Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147388.m3u8
+#EXTINF:-1,AR: MINBIJ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147344.m3u8
+#EXTINF:-1,AR: Miracle TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73427.m3u8
+#EXTINF:-1,AR: Modern Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193105.m3u8
+#EXTINF:-1,AR: Mody Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147389.m3u8
+#EXTINF:-1,AR: MOGA COMEDY TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63218.m3u8
+#EXTINF:-1,AR: Moroco 1 Alaoula
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110145.m3u8
+#EXTINF:-1,AR: Moroco 3 Arriadia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110146.m3u8
+#EXTINF:-1,AR: Moroco 4 Arrabiaa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110147.m3u8
+#EXTINF:-1,AR: Moroco 6 Assadissa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110148.m3u8
+#EXTINF:-1,AR: Moroco 8 Tamazight
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110149.m3u8
+#EXTINF:-1,AR: Moroco Medi 1TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110165.m3u8
+#EXTINF:-1,AR: MOSALSALAT TUBE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73432.m3u8
+#EXTINF:-1,AR: Movies Box Office 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158861.m3u8
+#EXTINF:-1,AR: Movies Box Office 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158862.m3u8
+#EXTINF:-1,AR: MOVIES COMEDY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89293.m3u8
+#EXTINF:-1,AR: MOVIES DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158853.m3u8
+#EXTINF:-1,AR: Movies Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158850.m3u8
+#EXTINF:-1,AR: MOVIES HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158854.m3u8
+#EXTINF:-1,AR: Movies thriller
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158844.m3u8
+#EXTINF:-1,AR: Mta International
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147460.m3u8
+#EXTINF:-1,AR: MTV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/102125.m3u8
+#EXTINF:-1,AR: MTV Lebanon
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206416.m3u8
+#EXTINF:-1,AR: Musawa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73436.m3u8
+#EXTINF:-1,AR: Music Alhanen
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135269.m3u8
+#EXTINF:-1,AR: Music HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196366.m3u8
+#EXTINF:-1,AR: Music Sha3by TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135270.m3u8
+#EXTINF:-1,AR: MUSTAKILLAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193107.m3u8
+#EXTINF:-1,AR: Muzicana
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196367.m3u8
+#EXTINF:-1,AR: MY FX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120733.m3u8
+#EXTINF:-1,AR: MyHD &TV 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211613.m3u8
+#EXTINF:-1,AR: MyHD &TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211612.m3u8
+#EXTINF:-1,AR: MyHD ANIMAL PLANET HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211602.m3u8
+#EXTINF:-1,AR: MyHD Cinemachi Kids HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/115949.m3u8
+#EXTINF:-1,AR: MyHD Documentry
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211604.m3u8
+#EXTINF:-1,AR: MyHD Fast & FunBOX
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/115929.m3u8
+#EXTINF:-1,AR: MyHD FilmBox FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78047.m3u8
+#EXTINF:-1,AR: MyHD FOX Family Movies FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78044.m3u8
+#EXTINF:-1,AR: MyHD FOX Movies Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211606.m3u8
+#EXTINF:-1,AR: MyHD FOX Movies Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211605.m3u8
+#EXTINF:-1,AR: MyHD Fox Movies HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78041.m3u8
+#EXTINF:-1,AR: MyHD FX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78040.m3u8
+#EXTINF:-1,AR: MyHD Gulli
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211608.m3u8
+#EXTINF:-1,AR: MyHD Home Cinema 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131768.m3u8
+#EXTINF:-1,AR: MyHD Home Cinema 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211615.m3u8
+#EXTINF:-1,AR: MyHD Home Cinema 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211616.m3u8
+#EXTINF:-1,AR: MyHD Home Cinema 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211617.m3u8
+#EXTINF:-1,AR: MyHD Home Cinema 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211618.m3u8
+#EXTINF:-1,AR: MyHD Jim & Jam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211607.m3u8
+#EXTINF:-1,AR: MyHD MBC 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78069.m3u8
+#EXTINF:-1,AR: MyHD MBC 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78068.m3u8
+#EXTINF:-1,AR: MyHD MBC 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78067.m3u8
+#EXTINF:-1,AR: MyHD MBC 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78066.m3u8
+#EXTINF:-1,AR: MyHD MBC Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78064.m3u8
+#EXTINF:-1,AR: MyHD MBC Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78062.m3u8
+#EXTINF:-1,AR: MyHD MBC MAX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78061.m3u8
+#EXTINF:-1,AR: MyHD MBC Plus Drama 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211611.m3u8
+#EXTINF:-1,AR: MyHD MBC Plus Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211610.m3u8
+#EXTINF:-1,AR: MyHD MBC Variety HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78060.m3u8
+#EXTINF:-1,AR: MyHD MBC+ Variety HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110900.m3u8
+#EXTINF:-1,AR: MyHD My Home Cinema 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131769.m3u8
+#EXTINF:-1,AR: MyHD My Home Cinema 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131770.m3u8
+#EXTINF:-1,AR: MyHD My Home Cinema 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131771.m3u8
+#EXTINF:-1,AR: MyHD My Home Cinema 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131772.m3u8
+#EXTINF:-1,AR: MyHD My Home Cinema 6
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146104.m3u8
+#EXTINF:-1,AR: MyHD Quest HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/140675.m3u8
+#EXTINF:-1,AR: MyHD Rotana Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110903.m3u8
+#EXTINF:-1,AR: MyHD Rotana Khalijia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111161.m3u8
+#EXTINF:-1,AR: MyHD Rotana Masriya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110905.m3u8
+#EXTINF:-1,AR: MyHD Rotana Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110906.m3u8
+#EXTINF:-1,AR: MyHD STAR WORLD HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/163278.m3u8
+#EXTINF:-1,AR: MyHD Wow Sport HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78016.m3u8
+#EXTINF:-1,AR: Mystro TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147370.m3u8
+#EXTINF:-1,AR: NABA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63220.m3u8
+#EXTINF:-1,AR: Nabaa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116672.m3u8
+#EXTINF:-1,AR: NAHAR DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63221.m3u8
+#EXTINF:-1,AR: Nahar One
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196509.m3u8
+#EXTINF:-1,AR: NAT GEO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63222.m3u8
+#EXTINF:-1,AR: NAT GEO Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135321.m3u8
+#EXTINF:-1,AR: NAT GEO People HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117717.m3u8
+#EXTINF:-1,AR: NAT GEO Wild HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/68217.m3u8
+#EXTINF:-1,AR: NATIONAL 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101173.m3u8
+#EXTINF:-1,AR: NATIONAL 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101172.m3u8
+#EXTINF:-1,AR: NBN TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73441.m3u8
+#EXTINF:-1,AR: Nessma TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63102.m3u8
+#EXTINF:-1,AR: Nile Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113342.m3u8
+#EXTINF:-1,AR: Nile Comedy
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63126.m3u8
+#EXTINF:-1,AR: Nile Culture
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73444.m3u8
+#EXTINF:-1,AR: Nile Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113340.m3u8
+#EXTINF:-1,AR: Nile Family
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73445.m3u8
+#EXTINF:-1,AR: Nile Life
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113338.m3u8
+#EXTINF:-1,AR: Nile News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73446.m3u8
+#EXTINF:-1,AR: Nile Sports
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100437.m3u8
+#EXTINF:-1,AR: Nile TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129776.m3u8
+#EXTINF:-1,AR: NILESAT COMEDY
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114447.m3u8
+#EXTINF:-1,AR: NILESAT CULTURE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114448.m3u8
+#EXTINF:-1,AR: NOON TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63226.m3u8
+#EXTINF:-1,AR: Noor Dubai
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193110.m3u8
+#EXTINF:-1,AR: Noor Jordan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121129.m3u8
+#EXTINF:-1,AR: Nour Dubai
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131064.m3u8
+#EXTINF:-1,AR: Nour Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196495.m3u8
+#EXTINF:-1,AR: Nour Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196494.m3u8
+#EXTINF:-1,AR: Noursat Al Chabab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147352.m3u8
+#EXTINF:-1,AR: Noursat Kodas
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111166.m3u8
+#EXTINF:-1,AR: NourSat Shabab Christian
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110909.m3u8
+#EXTINF:-1,AR: NourSat Spirit
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110280.m3u8
+#EXTINF:-1,AR: Numedia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121066.m3u8
+#EXTINF:-1,AR: OFIVE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196362.m3u8
+#EXTINF:-1,AR: Oman Live
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/207328.m3u8
+#EXTINF:-1,AR: Oman Sports HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95758.m3u8
+#EXTINF:-1,AR: OMAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90106.m3u8
+#EXTINF:-1,AR: Oman TV Culture
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135271.m3u8
+#EXTINF:-1,AR: ON DEMAND 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158856.m3u8
+#EXTINF:-1,AR: ON DEMAND 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158857.m3u8
+#EXTINF:-1,AR: ON DEMAND EXTRA 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158859.m3u8
+#EXTINF:-1,AR: ON Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75258.m3u8
+#EXTINF:-1,AR: ON Live
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94442.m3u8
+#EXTINF:-1,AR: ON Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89954.m3u8
+#EXTINF:-1,AR: ON TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89957.m3u8
+#EXTINF:-1,AR: one tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75257.m3u8
+#EXTINF:-1,AR: Orient News TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90092.m3u8
+#EXTINF:-1,AR: Oscar TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135324.m3u8
+#EXTINF:-1,AR: OSN Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95729.m3u8
+#EXTINF:-1,AR: OSN AD SPORTS 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/74671.m3u8
+#EXTINF:-1,AR: OSN AD SPORTS 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/74672.m3u8
+#EXTINF:-1,AR: OSN Al Safwa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63342.m3u8
+#EXTINF:-1,AR: OSN Alfa Alsafwa HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211619.m3u8
+#EXTINF:-1,AR: OSN Alfa Alyawm HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211620.m3u8
+#EXTINF:-1,AR: OSN Alfa ALYoum HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88761.m3u8
+#EXTINF:-1,AR: OSN Alfa Cinema 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110873.m3u8
+#EXTINF:-1,AR: OSN Alfa Cinema 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110874.m3u8
+#EXTINF:-1,AR: OSN Alfa Music Now HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211621.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89303.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89304.m3u8
+#EXTINF:-1,AR: OSN ALKASS SPORT 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89305.m3u8
+#EXTINF:-1,AR: OSN ALYOUM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/160449.m3u8
+#EXTINF:-1,AR: OSN ANIMAL PLANET HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211622.m3u8
+#EXTINF:-1,AR: OSN ART Aflam 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63341.m3u8
+#EXTINF:-1,AR: OSN ART Aflam 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63340.m3u8
+#EXTINF:-1,AR: OSN ART Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63339.m3u8
+#EXTINF:-1,AR: OSN ART Hekayat 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63338.m3u8
+#EXTINF:-1,AR: OSN ART Hekayat 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63337.m3u8
+#EXTINF:-1,AR: OSN Baby TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111158.m3u8
+#EXTINF:-1,AR: OSN BBC First HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211624.m3u8
+#EXTINF:-1,AR: OSN beIN BABY
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159039.m3u8
+#EXTINF:-1,AR: OSN beIN Box Office 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159036.m3u8
+#EXTINF:-1,AR: OSN beIN Discovery Life
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159033.m3u8
+#EXTINF:-1,AR: OSN beIN DreamWorks
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159032.m3u8
+#EXTINF:-1,AR: OSN beIN DTX
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159031.m3u8
+#EXTINF:-1,AR: OSN beIN Fox Movies
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159026.m3u8
+#EXTINF:-1,AR: OSN beIN JEEM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159025.m3u8
+#EXTINF:-1,AR: OSN beIN JUNIOR
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159024.m3u8
+#EXTINF:-1,AR: OSN beIN Series
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159019.m3u8
+#EXTINF:-1,AR: OSN beIN Sky Movies
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159018.m3u8
+#EXTINF:-1,AR: OSN beIN TCM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159017.m3u8
+#EXTINF:-1,AR: OSN Bing HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211627.m3u8
+#EXTINF:-1,AR: OSN Box Office 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63336.m3u8
+#EXTINF:-1,AR: OSN Box Office 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63335.m3u8
+#EXTINF:-1,AR: OSN Box Office 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63334.m3u8
+#EXTINF:-1,AR: OSN CBC Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211623.m3u8
+#EXTINF:-1,AR: OSN CBC reality
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63121.m3u8
+#EXTINF:-1,AR: OSN Cinema 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63120.m3u8
+#EXTINF:-1,AR: OSN Cinema 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88760.m3u8
+#EXTINF:-1,AR: OSN Cinemachi Kids HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211626.m3u8
+#EXTINF:-1,AR: OSN CNN HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98482.m3u8
+#EXTINF:-1,AR: OSN CNN News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211629.m3u8
+#EXTINF:-1,AR: OSN Comedy Central HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/103999.m3u8
+#EXTINF:-1,AR: OSN Demand Extra
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143141.m3u8
+#EXTINF:-1,AR: OSN Discovery Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136860.m3u8
+#EXTINF:-1,AR: OSN Discovery Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98483.m3u8
+#EXTINF:-1,AR: OSN Discovery Science HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120768.m3u8
+#EXTINF:-1,AR: OSN Discovery Sciense
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159011.m3u8
+#EXTINF:-1,AR: OSN Disney Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/70249.m3u8
+#EXTINF:-1,AR: OSN Disney Junior HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98452.m3u8
+#EXTINF:-1,AR: OSN Disney XD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98486.m3u8
+#EXTINF:-1,AR: OSN E! HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131161.m3u8
+#EXTINF:-1,AR: OSN FATAFEAT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89312.m3u8
+#EXTINF:-1,AR: OSN Fight Network HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/104002.m3u8
+#EXTINF:-1,AR: OSN Fine Living HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124778.m3u8
+#EXTINF:-1,AR: OSN First HBO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98364.m3u8
+#EXTINF:-1,AR: OSN First HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95710.m3u8
+#EXTINF:-1,AR: OSN Food Network HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105719.m3u8
+#EXTINF:-1,AR: OSN Fox Action Movies FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89313.m3u8
+#EXTINF:-1,AR: OSN Fox Movies HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/104006.m3u8
+#EXTINF:-1,AR: OSN Fox News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98365.m3u8
+#EXTINF:-1,AR: OSN FUEL HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89314.m3u8
+#EXTINF:-1,AR: OSN FX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/104007.m3u8
+#EXTINF:-1,AR: OSN H2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113240.m3u8
+#EXTINF:-1,AR: OSN HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63118.m3u8
+#EXTINF:-1,AR: OSN History Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113248.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63332.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63331.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 2 KIDS/ CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63326.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63330.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 3 KIDS/ CIMNEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63325.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63329.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63328.m3u8
+#EXTINF:-1,AR: OSN Home Cinema 6
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146106.m3u8
+#EXTINF:-1,AR: OSN IDX FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143153.m3u8
+#EXTINF:-1,AR: OSN Investigation Disvovery HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113237.m3u8
+#EXTINF:-1,AR: OSN ITV Choice HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/104044.m3u8
+#EXTINF:-1,AR: OSN JimJam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/104008.m3u8
+#EXTINF:-1,AR: OSN Kid Zone 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211633.m3u8
+#EXTINF:-1,AR: OSN Kids Zone TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120775.m3u8
+#EXTINF:-1,AR: OSN Mbc Drama+ HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95701.m3u8
+#EXTINF:-1,AR: OSN MBC Variety HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143156.m3u8
+#EXTINF:-1,AR: OSN Movie 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143157.m3u8
+#EXTINF:-1,AR: OSN Movie Action 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88747.m3u8
+#EXTINF:-1,AR: OSN Movie Drama 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143161.m3u8
+#EXTINF:-1,AR: OSN Movies +2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124779.m3u8
+#EXTINF:-1,AR: OSN Movies Action 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86781.m3u8
+#EXTINF:-1,AR: OSN Movies Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120782.m3u8
+#EXTINF:-1,AR: OSN MOVIES BOX OFFICE 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63301.m3u8
+#EXTINF:-1,AR: OSN MOVIES BOX OFFICE 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63300.m3u8
+#EXTINF:-1,AR: OSN MOVIES BOX OFFICE 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63299.m3u8
+#EXTINF:-1,AR: OSN Movies Comedy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63308.m3u8
+#EXTINF:-1,AR: OSN Movies Family HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/184592.m3u8
+#EXTINF:-1,AR: OSN Movies Festival HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63306.m3u8
+#EXTINF:-1,AR: OSN Movies First HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63316.m3u8
+#EXTINF:-1,AR: OSN Movies First HD 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131156.m3u8
+#EXTINF:-1,AR: OSN MOVIES HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63319.m3u8
+#EXTINF:-1,AR: OSN Movies Kids HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63314.m3u8
+#EXTINF:-1,AR: OSN Movies Thriller +2H
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63304.m3u8
+#EXTINF:-1,AR: OSN Movies Thriller 2H
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/213318.m3u8
+#EXTINF:-1,AR: OSN MTV Live HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131163.m3u8
+#EXTINF:-1,AR: OSN Musalsalat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143867.m3u8
+#EXTINF:-1,AR: OSN MUSIC NOW HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63298.m3u8
+#EXTINF:-1,AR: OSN NAT GEO ABU DHABI HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211625.m3u8
+#EXTINF:-1,AR: OSN NAT GEO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/70239.m3u8
+#EXTINF:-1,AR: OSN NAT GEO People HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89326.m3u8
+#EXTINF:-1,AR: OSN NAT GEO Wild HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211628.m3u8
+#EXTINF:-1,AR: OSN News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143168.m3u8
+#EXTINF:-1,AR: OSN Nick JR HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211630.m3u8
+#EXTINF:-1,AR: OSN Nickelodeon (Audio EN)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158987.m3u8
+#EXTINF:-1,AR: OSN Nickelodeon FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89327.m3u8
+#EXTINF:-1,AR: OSN OFFICBOX 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117485.m3u8
+#EXTINF:-1,AR: OSN OFFICBOX 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117484.m3u8
+#EXTINF:-1,AR: OSN ON DEMAND 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/68240.m3u8
+#EXTINF:-1,AR: OSN ON DEMAND 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88758.m3u8
+#EXTINF:-1,AR: OSN ON DEMAND 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89329.m3u8
+#EXTINF:-1,AR: OSN On Demand Extra 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63297.m3u8
+#EXTINF:-1,AR: OSN On Demand Extra 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100846.m3u8
+#EXTINF:-1,AR: OSN On Demand Extra 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131584.m3u8
+#EXTINF:-1,AR: OSN On Demand HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63295.m3u8
+#EXTINF:-1,AR: OSN ON Demande 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143170.m3u8
+#EXTINF:-1,AR: OSN ON Demande 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143172.m3u8
+#EXTINF:-1,AR: OSN ORBIT CINEMA 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63294.m3u8
+#EXTINF:-1,AR: OSN ORBIT CINEMA 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86782.m3u8
+#EXTINF:-1,AR: OSN Outdoor HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98454.m3u8
+#EXTINF:-1,AR: OSN SeeVii Al Aoula HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63280.m3u8
+#EXTINF:-1,AR: OSN SeeVii Beelink HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159001.m3u8
+#EXTINF:-1,AR: OSN SeeVii Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159000.m3u8
+#EXTINF:-1,AR: OSN Series Comedy 2H
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63283.m3u8
+#EXTINF:-1,AR: OSN Series First HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158838.m3u8
+#EXTINF:-1,AR: OSN Sport 1 Action
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143179.m3u8
+#EXTINF:-1,AR: OSN Sports 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143181.m3u8
+#EXTINF:-1,AR: OSN Sports 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88765.m3u8
+#EXTINF:-1,AR: OSN Sports 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86785.m3u8
+#EXTINF:-1,AR: OSN Sports Cricket HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94108.m3u8
+#EXTINF:-1,AR: OSN SPtv HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211634.m3u8
+#EXTINF:-1,AR: OSN Star Movie HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/68234.m3u8
+#EXTINF:-1,AR: OSN Star World HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63114.m3u8
+#EXTINF:-1,AR: OSN SUNDANCE TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158997.m3u8
+#EXTINF:-1,AR: OSN SYFY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/97311.m3u8
+#EXTINF:-1,AR: OSN Ten Cricket
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120807.m3u8
+#EXTINF:-1,AR: OSN TLC HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98374.m3u8
+#EXTINF:-1,AR: OSN Travel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/140705.m3u8
+#EXTINF:-1,AR: OSN VH1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113254.m3u8
+#EXTINF:-1,AR: OSN WWE HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63274.m3u8
+#EXTINF:-1,AR: OSN Ya Hala Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88754.m3u8
+#EXTINF:-1,AR: OSN Ya Hala First 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158831.m3u8
+#EXTINF:-1,AR: OSN Ya Hala First HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158989.m3u8
+#EXTINF:-1,AR: OSN Ya Hala HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120745.m3u8
+#EXTINF:-1,AR: OSN Ya Hala Oula HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124784.m3u8
+#EXTINF:-1,AR: OSN Ya Hala Shabab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147702.m3u8
+#EXTINF:-1,AR: OSN Ya Hala! Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63285.m3u8
+#EXTINF:-1,AR: OTV TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114603.m3u8
+#EXTINF:-1,AR: Oula Maroc
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105524.m3u8
+#EXTINF:-1,AR: PALESTINE AL YOUM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121130.m3u8
+#EXTINF:-1,AR: Palestine Live
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147347.m3u8
+#EXTINF:-1,AR: Palestine News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75251.m3u8
+#EXTINF:-1,AR: Palestine Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/79300.m3u8
+#EXTINF:-1,AR: PALESTINE TODAY
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75250.m3u8
+#EXTINF:-1,AR: Palestine TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147348.m3u8
+#EXTINF:-1,AR: Panorama Comedy
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63227.m3u8
+#EXTINF:-1,AR: PANORAMA DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193118.m3u8
+#EXTINF:-1,AR: Panorama Drama 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63228.m3u8
+#EXTINF:-1,AR: Panorama Drama 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131004.m3u8
+#EXTINF:-1,AR: Panorama Film
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63230.m3u8
+#EXTINF:-1,AR: Panorama Food
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116686.m3u8
+#EXTINF:-1,AR: Peace TV 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196473.m3u8
+#EXTINF:-1,AR: Peace TV 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196474.m3u8
+#EXTINF:-1,AR: Peace TV 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196475.m3u8
+#EXTINF:-1,AR: PRO SPORT 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89290.m3u8
+#EXTINF:-1,AR: PRO SPORT 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/137529.m3u8
+#EXTINF:-1,AR: PROGRAMME NATIONAL
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/102135.m3u8
+#EXTINF:-1,AR: PUBLI TOOLS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193119.m3u8
+#EXTINF:-1,AR: Qamishlo TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196548.m3u8
+#EXTINF:-1,AR: QATAR TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75242.m3u8
+#EXTINF:-1,AR: QUEST ARABIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89894.m3u8
+#EXTINF:-1,AR: Resalat ALIslam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135325.m3u8
+#EXTINF:-1,AR: ROTANA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75239.m3u8
+#EXTINF:-1,AR: Rotana Aflam HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75238.m3u8
+#EXTINF:-1,AR: Rotana Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63234.m3u8
+#EXTINF:-1,AR: Rotana Classic HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113273.m3u8
+#EXTINF:-1,AR: Rotana Clip HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113271.m3u8
+#EXTINF:-1,AR: Rotana Drama HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105337.m3u8
+#EXTINF:-1,AR: Rotana Khalijiah HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75235.m3u8
+#EXTINF:-1,AR: Rotana Masriya HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/75234.m3u8
+#EXTINF:-1,AR: Rotana Music HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114464.m3u8
+#EXTINF:-1,AR: ROYA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78585.m3u8
+#EXTINF:-1,AR: Rt Arab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147469.m3u8
+#EXTINF:-1,AR: RT ARABIC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193125.m3u8
+#EXTINF:-1,AR: Rudaw HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86768.m3u8
+#EXTINF:-1,AR: Russia Today News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110136.m3u8
+#EXTINF:-1,AR: S7T AFLAM HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147507.m3u8
+#EXTINF:-1,AR: S7T ANIME
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147509.m3u8
+#EXTINF:-1,AR: S7T HITS HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147514.m3u8
+#EXTINF:-1,AR: S7T MOVIES HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147516.m3u8
+#EXTINF:-1,AR: S7T SERIES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147518.m3u8
+#EXTINF:-1,AR: S7T SPORT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147519.m3u8
+#EXTINF:-1,AR: SADA AL BALAD 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63237.m3u8
+#EXTINF:-1,AR: SADA AL BALAD DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89350.m3u8
+#EXTINF:-1,AR: Sada AlBalad HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94424.m3u8
+#EXTINF:-1,AR: Sada Drama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110115.m3u8
+#EXTINF:-1,AR: SADA EL BALAD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113346.m3u8
+#EXTINF:-1,AR: SADA EL BALAD 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113347.m3u8
+#EXTINF:-1,AR: SADA EL BALAD DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113348.m3u8
+#EXTINF:-1,AR: Safa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196447.m3u8
+#EXTINF:-1,AR: Sahel TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196549.m3u8
+#EXTINF:-1,AR: Sama Dubai HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63239.m3u8
+#EXTINF:-1,AR: Sama Sham
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196392.m3u8
+#EXTINF:-1,AR: Sama Syria
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/101189.m3u8
+#EXTINF:-1,AR: Sama TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147337.m3u8
+#EXTINF:-1,AR: SAMARRA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98464.m3u8
+#EXTINF:-1,AR: Samira TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63240.m3u8
+#EXTINF:-1,AR: Sat 7 Arabic
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78595.m3u8
+#EXTINF:-1,AR: Sat 7 Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110225.m3u8
+#EXTINF:-1,AR: Saudi 1 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63242.m3u8
+#EXTINF:-1,AR: Saudi 2 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63243.m3u8
+#EXTINF:-1,AR: Saudi 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131025.m3u8
+#EXTINF:-1,AR: Saudi Ajyal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105407.m3u8
+#EXTINF:-1,AR: Saudi Al Haj
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116777.m3u8
+#EXTINF:-1,AR: SAUDI AL IKHBARIYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121100.m3u8
+#EXTINF:-1,AR: Saudi Anti Terrorism
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148578.m3u8
+#EXTINF:-1,AR: Saudi Ch. For Sunnah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135282.m3u8
+#EXTINF:-1,AR: SAUDI FAMILY
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89898.m3u8
+#EXTINF:-1,AR: Saudi News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110132.m3u8
+#EXTINF:-1,AR: Saudi Quraan HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105402.m3u8
+#EXTINF:-1,AR: SAUDI QURAN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89913.m3u8
+#EXTINF:-1,AR: Saudi Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135283.m3u8
+#EXTINF:-1,AR: Saudi Sport 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100439.m3u8
+#EXTINF:-1,AR: Saudi Sunnah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147429.m3u8
+#EXTINF:-1,AR: Saudie 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146126.m3u8
+#EXTINF:-1,AR: SCARE TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135328.m3u8
+#EXTINF:-1,AR: SeeVii Alaoula HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116778.m3u8
+#EXTINF:-1,AR: Sehaty
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124941.m3u8
+#EXTINF:-1,AR: SemSem Kids
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110258.m3u8
+#EXTINF:-1,AR: Sham FM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196396.m3u8
+#EXTINF:-1,AR: SHANPOO AFLAM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/143730.m3u8
+#EXTINF:-1,AR: SHARO5AN HINDI
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135330.m3u8
+#EXTINF:-1,AR: Shaun The sheep
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196420.m3u8
+#EXTINF:-1,AR: Sky News Arabia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105410.m3u8
+#EXTINF:-1,AR: SKY News HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146139.m3u8
+#EXTINF:-1,AR: Space Toon
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63246.m3u8
+#EXTINF:-1,AR: STAR CINEMA 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78610.m3u8
+#EXTINF:-1,AR: STAR CINEMA 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78611.m3u8
+#EXTINF:-1,AR: Star Movies HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158851.m3u8
+#EXTINF:-1,AR: STAR WORLD HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118510.m3u8
+#EXTINF:-1,AR: Sudan ASHOROOQ
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135301.m3u8
+#EXTINF:-1,AR: SUDAN BLUE NILE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110211.m3u8
+#EXTINF:-1,AR: Sudan Knowledge
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110174.m3u8
+#EXTINF:-1,AR: SUDAN Monwaat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121137.m3u8
+#EXTINF:-1,AR: Sudan Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146208.m3u8
+#EXTINF:-1,AR: SUDAN Om Dorman
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110163.m3u8
+#EXTINF:-1,AR: SUDAN TAYBA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121139.m3u8
+#EXTINF:-1,AR: Sudan TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108083.m3u8
+#EXTINF:-1,AR: Sudania 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/90132.m3u8
+#EXTINF:-1,AR: SUHAIL TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78612.m3u8
+#EXTINF:-1,AR: Suryoyo Sat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/77527.m3u8
+#EXTINF:-1,AR: Syria AlEkhbaria
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105362.m3u8
+#EXTINF:-1,AR: Syria AlOula
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95764.m3u8
+#EXTINF:-1,AR: SYRIA DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63250.m3u8
+#EXTINF:-1,AR: Syria Education
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147334.m3u8
+#EXTINF:-1,AR: SYRIA EDUCATION (ElTarbaouia)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118835.m3u8
+#EXTINF:-1,AR: Syria Educational
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196400.m3u8
+#EXTINF:-1,AR: SYRIA FM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193136.m3u8
+#EXTINF:-1,AR: Syria Halab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110151.m3u8
+#EXTINF:-1,AR: Syria Lana
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159673.m3u8
+#EXTINF:-1,AR: SYRIA MEDICAL TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110152.m3u8
+#EXTINF:-1,AR: SYRIA NEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63248.m3u8
+#EXTINF:-1,AR: Syria Nour
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116746.m3u8
+#EXTINF:-1,AR: Syria RTV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196397.m3u8
+#EXTINF:-1,AR: Syria Sama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105360.m3u8
+#EXTINF:-1,AR: SYRIA SATELLITE TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130971.m3u8
+#EXTINF:-1,AR: SYRIA TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63251.m3u8
+#EXTINF:-1,AR: Syriaa TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196552.m3u8
+#EXTINF:-1,AR: SYRIAN DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114601.m3u8
+#EXTINF:-1,AR: TAHA TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/98475.m3u8
+#EXTINF:-1,AR: TAMAZIGHT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63252.m3u8
+#EXTINF:-1,AR: Tanasoh TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196448.m3u8
+#EXTINF:-1,AR: TANASUH TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116751.m3u8
+#EXTINF:-1,AR: TATT7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78616.m3u8
+#EXTINF:-1,AR: Tayba TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121732.m3u8
+#EXTINF:-1,AR: TEBA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78617.m3u8
+#EXTINF:-1,AR: Techno
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196368.m3u8
+#EXTINF:-1,AR: Tele Liban TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78618.m3u8
+#EXTINF:-1,AR: TELE MAROC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89761.m3u8
+#EXTINF:-1,AR: Telvza TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113406.m3u8
+#EXTINF:-1,AR: TEN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63254.m3u8
+#EXTINF:-1,AR: The Way
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196497.m3u8
+#EXTINF:-1,AR: TIME CINEMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63255.m3u8
+#EXTINF:-1,AR: Time Comedy
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63256.m3u8
+#EXTINF:-1,AR: Time Film
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/95751.m3u8
+#EXTINF:-1,AR: TNN (Tunisia)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63257.m3u8
+#EXTINF:-1,AR: TNT 2M MAROC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89778.m3u8
+#EXTINF:-1,AR: TNT AL MAGHRIBIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89781.m3u8
+#EXTINF:-1,AR: TNT ARRABIA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89780.m3u8
+#EXTINF:-1,AR: TNT ASSADISSA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89782.m3u8
+#EXTINF:-1,AR: TNT MEDI 1 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89785.m3u8
+#EXTINF:-1,AR: Tok Tok Aflam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147409.m3u8
+#EXTINF:-1,AR: Tok Tok Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146212.m3u8
+#EXTINF:-1,AR: TOKTOK AFLAM (EGY)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78620.m3u8
+#EXTINF:-1,AR: Toktok Cima
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/116705.m3u8
+#EXTINF:-1,AR: Tom And Jery
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196422.m3u8
+#EXTINF:-1,AR: TOUNESNA (TUN)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63103.m3u8
+#EXTINF:-1,AR: Toyor Al Janah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63258.m3u8
+#EXTINF:-1,AR: TOYOR ALJANNAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193140.m3u8
+#EXTINF:-1,AR: toyor Baby
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130947.m3u8
+#EXTINF:-1,AR: TOYOUR AL JANAH
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/146138.m3u8
+#EXTINF:-1,AR: Toyour Al Jannah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196411.m3u8
+#EXTINF:-1,AR: Toyour baby
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196412.m3u8
+#EXTINF:-1,AR: Toyur Al Jannah
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108090.m3u8
+#EXTINF:-1,AR: TRAVEL CHANNEL
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118529.m3u8
+#EXTINF:-1,AR: TRT Al Arabia HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121101.m3u8
+#EXTINF:-1,AR: TRT Arabia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/193141.m3u8
+#EXTINF:-1,AR: TRT ARABIC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/97254.m3u8
+#EXTINF:-1,AR: Tube Cinema
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94422.m3u8
+#EXTINF:-1,AR: Tube Mosalsalat
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94443.m3u8
+#EXTINF:-1,AR: TUNISIA 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108165.m3u8
+#EXTINF:-1,AR: Tunisia First TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63259.m3u8
+#EXTINF:-1,AR: TUNISIA NAT 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113460.m3u8
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114437.m3u8
+#EXTINF:-1,AR: Tunisia National 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147440.m3u8
+#EXTINF:-1,AR: Tunisia National 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147441.m3u8
+#EXTINF:-1,AR: Tunisie Nat 1 TNT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114656.m3u8
+#EXTINF:-1,AR: Tunisna TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89839.m3u8
+#EXTINF:-1,AR: TV 4
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135286.m3u8
+#EXTINF:-1,AR: TV 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135287.m3u8
+#EXTINF:-1,AR: TV A3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105310.m3u8
+#EXTINF:-1,AR: TV Coran
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/148582.m3u8
+#EXTINF:-1,AR: Wanasa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155920.m3u8
+#EXTINF:-1,AR: Wanasah TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113509.m3u8
+#EXTINF:-1,AR: WATAN TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78631.m3u8
+#EXTINF:-1,AR: Watanya 1 (TUN)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110137.m3u8
+#EXTINF:-1,AR: Watanya 2 (TUN)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110138.m3u8
+#EXTINF:-1,AR: Watn
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110215.m3u8
+#EXTINF:-1,AR: Wesal TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63262.m3u8
+#EXTINF:-1,AR: Wisal Haq
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196477.m3u8
+#EXTINF:-1,AR: Wisal Hausa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196478.m3u8
+#EXTINF:-1,AR: Wissal TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/196479.m3u8
+#EXTINF:-1,AR: WWE HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158864.m3u8
+#EXTINF:-1,AR: Yahala
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147700.m3u8
+#EXTINF:-1,AR: YAHALA CINEMA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158842.m3u8
+#EXTINF:-1,AR: YAHALA DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/158843.m3u8
+#EXTINF:-1,AR: Yas Sport HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135536.m3u8
+#EXTINF:-1,AR: YEMEN BELQEES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/176443.m3u8
+#EXTINF:-1,AR: Yemen Sama
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/131077.m3u8
+#EXTINF:-1,AR: Yemen Shabab
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/110171.m3u8
+#EXTINF:-1,AR: YEMEN TODAY TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78635.m3u8
+#EXTINF:-1,AR: Yemen TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/78632.m3u8
+#EXTINF:-1,AR: ZAD TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89359.m3u8
+#EXTINF:-1,AR: Zaytoona TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63263.m3u8
+#EXTINF:-1,AR: ZAYTOUNA HEDAYA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/118456.m3u8
+#EXTINF:-1,AR: Zaytouna TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/105398.m3u8
+#EXTINF:-1,AR: Zee Aflam
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113351.m3u8
+#EXTINF:-1,AR: Zee Alwan
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/113352.m3u8
+#EXTINF:-1,AR: Zitouna Hedaya
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/147438.m3u8
+#EXTINF:-1,AR: Zweina Baladna
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121143.m3u8
