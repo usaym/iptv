@@ -1,3 +1,49 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport 1
-http://ummodigital.com:2082/get.php?username=nana&password=nana&type=m3u
+#EXTINF:-1,Bein Sport Max HD1
+http://linux-app.tv:6204/live/Reben/Reben/20830.m3u8
+#EXTINF:-1,Bein Sport Max HD2
+http://linux-app.tv:6204/live/Reben/Reben/20829.m3u8
+#EXTINF:-1,Bein Sport HD1 720P
+http://linux-app.tv:6204/live/Reben/Reben/9022.m3u8
+#EXTINF:-1,Bein Sport HD2 720P
+http://linux-app.tv:6204/live/Reben/Reben/9021.m3u8
+#EXTINF:-1,Bein Sport HD3 720P
+http://linux-app.tv:6204/live/Reben/Reben/9020.m3u8
+#EXTINF:-1,Bein Sport HD4 720P
+http://linux-app.tv:6204/live/Reben/Reben/9019.m3u8
+#EXTINF:-1,Bein Sport HD5 720P
+http://linux-app.tv:6204/live/Reben/Reben/9018.m3u8
+#EXTINF:-1,Bein Sport HD6 720P
+http://linux-app.tv:6204/live/Reben/Reben/9017.m3u8
+#EXTINF:-1,Bein Sport HD7 720P
+http://linux-app.tv:6204/live/Reben/Reben/9016.m3u8
+#EXTINF:-1,Bein Sport HD8 720P
+http://linux-app.tv:6204/live/Reben/Reben/9015.m3u8
+#EXTINF:-1,Bein Sport HD9 720P
+http://linux-app.tv:6204/live/Reben/Reben/9014.m3u8
+#EXTINF:-1,Bein Sport HD10 720P
+http://linux-app.tv:6204/live/Reben/Reben/9013.m3u8
+#EXTINF:-1,Bein Sport HD11 EN 720P
+http://linux-app.tv:6204/live/Reben/Reben/9012.m3u8
+#EXTINF:-1,bein Sport SD1
+http://linux-app.tv:6204/live/Reben/Reben/1913.m3u8
+#EXTINF:-1,Bein Sport SD2
+http://linux-app.tv:6204/live/Reben/Reben/1914.m3u8
+#EXTINF:-1,Bein Sport SD3
+http://linux-app.tv:6204/live/Reben/Reben/1915.m3u8
+#EXTINF:-1,Bein Sport SD4
+http://linux-app.tv:6204/live/Reben/Reben/1916.m3u8
+#EXTINF:-1,Bein Sport SD5
+http://linux-app.tv:6204/live/Reben/Reben/1917.m3u8
+#EXTINF:-1,Bein Sport SD6
+http://linux-app.tv:6204/live/Reben/Reben/1918.m3u8
+#EXTINF:-1,Bein Sport SD7
+http://linux-app.tv:6204/live/Reben/Reben/1919.m3u8
+#EXTINF:-1,Bein Sport SD8
+http://linux-app.tv:6204/live/Reben/Reben/1920.m3u8
+#EXTINF:-1,Bein Sport SD9
+http://linux-app.tv:6204/live/Reben/Reben/1921.m3u8
+#EXTINF:-1,Bein Sport SD10
+http://linux-app.tv:6204/live/Reben/Reben/1922.m3u8
+#EXTINF:-1,Bein Sport SD11
+http://linux-app.tv:6204/live/Reben/Reben/1923.m3u8
