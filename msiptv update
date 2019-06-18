@@ -71,3 +71,7 @@ http://iptv.clines.cc:80/1234/1234/5973
 http://iptv.clines.cc:80/1234/1234/5972
 #EXTINF:-1,AR: BEIN SPORTS MAX4 HD
 http://iptv.clines.cc:80/1234/1234/5511
+#EXTINF:-1,AR: Bein Sports Global
+http://iptv.clines.cc:80/1234/1234/735
+#EXTINF:-1,AR: Bein Sports News
+http://iptv.clines.cc:80/1234/1234/1767
